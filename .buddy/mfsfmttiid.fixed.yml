@@ -1,0 +1,4 @@
+- pipeline: mfsfmttiid
+  refs:
+  - refs/heads/master
+  on: CLICK
